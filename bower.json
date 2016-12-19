@@ -1,0 +1,22 @@
+{
+  "name": "SampleApp",
+  "description": "my very intresting app",
+  "main": "index.js",
+  "authors": [
+    "ganesh pilli"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/neghani/addEasy-Project",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.0"
+  }
+}
